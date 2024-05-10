@@ -23,8 +23,7 @@ For this assessment, you are allowed to use the following resources:
 * [MDN]
 * A whiteboard or paper to work out problems/code, but it must be within camera
   range
-* VS Code or a console for coding, testing, and experimentation during any part
-  of the test, including multiple-choice questions
+* VS Code or a console for coding, testing, and experimentation
 * Node
 * Postman (when useful)
 * Previously written code you wrote yourself
