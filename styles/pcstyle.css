@@ -1,0 +1,7 @@
+@media only screen and (min-width: 700px) {
+    .search-bar input {
+        width: 110px;
+        height: 40px;
+    }
+
+}
